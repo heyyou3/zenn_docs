@@ -6,8 +6,8 @@ topics:
 - "アーキテクチャ"
 - "ヘキサゴナルアーキテクチャ"
 - "ポートアンドアダプタ"
-  published: true
-  published_at: "2022-07-18 14:48"
+published: true
+published_at: "2022-07-18 14:48"
 ---
 
 :::message
