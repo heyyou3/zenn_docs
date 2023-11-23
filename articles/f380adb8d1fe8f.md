@@ -50,7 +50,7 @@ topics:
 **レイヤードアーキテクチャの問題点**
 - ドメインロジックが外部技術に依存してしまう
 
-更に Cockburn さんはビジネスロジックが View と密結合関係に陥ることにより、以下の問題を抱えていました。
+更に Cockburn 氏はビジネスロジックが View と密結合関係に陥ることにより、以下の問題を抱えていました。
 
 **Cockburn 氏が抱えていた問題**
 
@@ -64,7 +64,7 @@ topics:
 > ・For still the same reason, it becomes difficult or impossible to allow the program to be driven by another program when that becomes attractive.
 > https://alistair.cockburn.us/hexagonal-architecture/
 
-各アーキテクチャの問題点と Cockburn さんが解決したかった問題を解決するアプローチとしてヘキサゴナルアーキテクチャは誕生しました。
+各アーキテクチャの問題点と Cockburn 氏が解決したかった問題を解決するアプローチとしてヘキサゴナルアーキテクチャは誕生しました。
 
 ## Hexagonal Architecture で実現できること
 ヘキサゴナルアーキテクチャを適用することで実現できることは以下になります。
